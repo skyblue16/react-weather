@@ -1,0 +1,23 @@
+.weaterDataCont{
+    background-color: pink;
+    margin-bottom: 20px;
+    width: auto;
+}
+.detail{
+    background-color: #bcebf1;
+    height: 100vh auto;
+}
+.result{
+    border: 1px solid black;
+}
+.de{
+    padding: 10px;
+}
+.paper{
+
+    background-color: rgb(153, 219, 228) !important;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 1px;
+}
